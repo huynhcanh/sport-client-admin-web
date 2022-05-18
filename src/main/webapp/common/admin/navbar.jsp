@@ -17,8 +17,9 @@
 <!-- Sidebar menu-->
 <div class="app-sidebar__overlay" data-toggle="sidebar"></div>
 <aside class="app-sidebar">
-    <div class="app-sidebar__user"><img class="app-sidebar__user-avatar" src="<%=BASE_API%>/image/user/277977560_1052080232045347_457210745673349862_n.jpg" width="50px"
-                                        alt="User Image">
+    <div class="app-sidebar__user">
+        <%--<img class="app-sidebar__user-avatar" src="<%=BASE_API%>/image/user/277977560_1052080232045347_457210745673349862_n.jpg" width="50px"--%>
+                                        <%--alt="User Image">--%>
         <div>
             <p class="app-sidebar__user-name"><b>Huỳnh Cảnh</b></p>
             <p class="app-sidebar__user-designation">Chào mừng bạn trở lại</p>
